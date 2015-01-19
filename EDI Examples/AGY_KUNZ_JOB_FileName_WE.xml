@@ -1,0 +1,21 @@
+<process name="AGY_KUNZ_JOB_FileName_WE">
+
+	<sequence name="Main">
+	
+		<operation name="Timestamp Utility">
+			<participant name="TimestampUtilService"/>
+			<output message="TimestampUtilServiceTypeInputMessage">
+				<assign to="." from="*"/>
+				<assign to="action" from="'current_time'"/>
+				<assign to="format" from="'yyyyMMddHHmmss'"/>
+			</output>
+			<input message="inmsg">
+				<assign to="." from="*"/>
+			</input>
+		</operation>
+
+		<assign to="FSAFileName" from="concat('KUNZ_JOB_', /ProcessData/EDIPortal/Checkpoint/WORKFLOW_ID/text(), '_', /ProcessData/time/text(), '.txt')"/>
+				
+	</sequence>
+
+</process>

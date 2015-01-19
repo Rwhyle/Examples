@@ -1,0 +1,24 @@
+C:\Users\therjw\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.exe
+C:\Users\therjw\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.pdb
+C:\Users\therjw\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe
+C:\Users\therjw\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.pdb
+C:\Users\therjw\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe.manifest
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.application
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.pdb
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe.CodeAnalysisLog.xml
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe.lastcodeanalysissucceeded
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.exe.manifest
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.application
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.exe
+C:\Users\Richard\Documents\My Work\Final Year Project\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.pdb
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.exe
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.pdb
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe.manifest
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.application
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.exe
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\bin\Debug\Backgammon Project.pdb
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.exe.manifest
+F:\Users\Richard\Documents\My Work\Final year project\CD\Backgammon Project\Backgammon Project\obj\x86\Debug\Backgammon Project.application
