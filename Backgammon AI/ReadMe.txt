@@ -1,5 +1,5 @@
 Richard Whyle
-Final Year Project - Intelligent Backgammon Opponent
+Intelligent Backgammon Opponent
 
 Within this folder I placed 3 folders, 
 Backgammon Project - This is the visual studios folder with all nesserecery files needed inside
